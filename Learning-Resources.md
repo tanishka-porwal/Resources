@@ -16,6 +16,7 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
     - [Javascript](#javascript)
     - [ES6-Specific](#es6-specific)
     - [HTML/CSS](#htmlcss)
+    - [TypeScript](#typescript)
 - [Web Frameworks](#web-frameworks)
     - [Django](#django)
     - [Flask](#flask)
@@ -205,7 +206,10 @@ Storm Hackathons](https://github.com/Ladies-Storm-Hackathons)!
   * [Rails Documentation](http://guides.rubyonrails.org/getting_started.html)
   * [Rails Girls](http://railsgirls.com/)
   Check under Guides for step-by-step tutorials on building your first app. Available in 11 languages.
-
+  
+### Typescript
+  * [TypeScript Documentation](https://www.typescriptlang.org/docs/home.html)
+  TypeScript is a superset of JavaScript that compiles to clean JavaScript output. 
 
 ### UI Design, Product Design, and UX
 * [Open Web BU's Resource Page](http://openwebbu.org/resources)  
